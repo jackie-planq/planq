@@ -7,7 +7,7 @@ updates:
     time: "10:00"
   open-pull-requests-limit: 10
   reviewers:
-  - ivanshukhov
+  - jackie-planq
   labels:
   - dependencies
 - package-ecosystem: docker
@@ -17,7 +17,7 @@ updates:
     time: "10:00"
   open-pull-requests-limit: 10
   reviewers:
-  - ivanshukhov
+  - jackie-planq
 - package-ecosystem: gomod
   directory: "/"
   schedule:
